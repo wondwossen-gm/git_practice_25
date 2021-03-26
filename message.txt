@@ -1,0 +1,8 @@
+What I am tryign to do is:
+1-Open the directory using git bash
+2-initialzied git using git init
+2(a)-create a file in the gen_project a text file .
+3-open the text file using git bash and edite the text and save it 
+4-add the file to the local work place5-
+5-commit the file
+6-push the file to gitbuh reposotry usin only git bush.
